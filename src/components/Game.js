@@ -206,6 +206,7 @@ function Game() {
         <button onClick={start}>Start</button>
         <button onClick={restart}>Restart</button>
       </div>
+      <footer>by Lazar Djurkovic</footer>
     </div>
   );
 }
